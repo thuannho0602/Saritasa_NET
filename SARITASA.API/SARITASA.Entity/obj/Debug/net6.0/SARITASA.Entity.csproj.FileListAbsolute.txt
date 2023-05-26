@@ -1,0 +1,12 @@
+D:\Test\SARITASA.API\SARITASA.Entity\bin\Debug\net6.0\SARITASA.Entity.deps.json
+D:\Test\SARITASA.API\SARITASA.Entity\bin\Debug\net6.0\SARITASA.Entity.dll
+D:\Test\SARITASA.API\SARITASA.Entity\bin\Debug\net6.0\SARITASA.Entity.pdb
+D:\Test\SARITASA.API\SARITASA.Entity\obj\Debug\net6.0\SARITASA.Entity.csproj.AssemblyReference.cache
+D:\Test\SARITASA.API\SARITASA.Entity\obj\Debug\net6.0\SARITASA.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test\SARITASA.API\SARITASA.Entity\obj\Debug\net6.0\SARITASA.Entity.AssemblyInfoInputs.cache
+D:\Test\SARITASA.API\SARITASA.Entity\obj\Debug\net6.0\SARITASA.Entity.AssemblyInfo.cs
+D:\Test\SARITASA.API\SARITASA.Entity\obj\Debug\net6.0\SARITASA.Entity.csproj.CoreCompileInputs.cache
+D:\Test\SARITASA.API\SARITASA.Entity\obj\Debug\net6.0\SARITASA.Entity.dll
+D:\Test\SARITASA.API\SARITASA.Entity\obj\Debug\net6.0\refint\SARITASA.Entity.dll
+D:\Test\SARITASA.API\SARITASA.Entity\obj\Debug\net6.0\SARITASA.Entity.pdb
+D:\Test\SARITASA.API\SARITASA.Entity\obj\Debug\net6.0\ref\SARITASA.Entity.dll

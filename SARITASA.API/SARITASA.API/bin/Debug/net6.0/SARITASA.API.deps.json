@@ -979,9 +979,21 @@
           "SARITASA.Model.dll": {}
         }
       },
+      "SARITASA.Repository/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "6.0.0",
+          "SARITASA.DataAccess": "1.0.0",
+          "SARITASA.Entity": "1.0.0"
+        },
+        "runtime": {
+          "SARITASA.Repository.dll": {}
+        }
+      },
       "SARITASA.Sevices/1.0.0": {
         "dependencies": {
-          "SARITASA.DataAccess": "1.0.0"
+          "SARITASA.DataAccess": "1.0.0",
+          "SARITASA.Model": "1.0.0",
+          "SARITASA.Repository": "1.0.0"
         },
         "runtime": {
           "SARITASA.Sevices.dll": {}
@@ -1781,6 +1793,11 @@
       "sha512": ""
     },
     "SARITASA.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SARITASA.Repository/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

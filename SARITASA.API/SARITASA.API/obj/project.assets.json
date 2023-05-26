@@ -1918,11 +1918,28 @@
           "bin/placeholder/SARITASA.Model.dll": {}
         }
       },
+      "SARITASA.Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "6.0.0",
+          "SARITASA.DataAccess": "1.0.0",
+          "SARITASA.Entity": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SARITASA.Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SARITASA.Repository.dll": {}
+        }
+      },
       "SARITASA.Sevices/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "SARITASA.DataAccess": "1.0.0"
+          "SARITASA.DataAccess": "1.0.0",
+          "SARITASA.Model": "1.0.0",
+          "SARITASA.Repository": "1.0.0"
         },
         "compile": {
           "bin/placeholder/SARITASA.Sevices.dll": {}
@@ -5511,6 +5528,11 @@
       "type": "project",
       "path": "../SARITASA.Model/SARITASA.Model.csproj",
       "msbuildProject": "../SARITASA.Model/SARITASA.Model.csproj"
+    },
+    "SARITASA.Repository/1.0.0": {
+      "type": "project",
+      "path": "../SARITASA.Repository/SARITASA.Repository.csproj",
+      "msbuildProject": "../SARITASA.Repository/SARITASA.Repository.csproj"
     },
     "SARITASA.Sevices/1.0.0": {
       "type": "project",

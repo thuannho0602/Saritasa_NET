@@ -1,0 +1,17 @@
+D:\Saritasa_NET\SARITASA.API\SARITASA.Repository\bin\Debug\net6.0\SARITASA.Repository.deps.json
+D:\Saritasa_NET\SARITASA.API\SARITASA.Repository\bin\Debug\net6.0\SARITASA.Repository.dll
+D:\Saritasa_NET\SARITASA.API\SARITASA.Repository\bin\Debug\net6.0\SARITASA.Repository.pdb
+D:\Saritasa_NET\SARITASA.API\SARITASA.Repository\obj\Debug\net6.0\SARITASA.Repository.csproj.AssemblyReference.cache
+D:\Saritasa_NET\SARITASA.API\SARITASA.Repository\obj\Debug\net6.0\SARITASA.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Saritasa_NET\SARITASA.API\SARITASA.Repository\obj\Debug\net6.0\SARITASA.Repository.AssemblyInfoInputs.cache
+D:\Saritasa_NET\SARITASA.API\SARITASA.Repository\obj\Debug\net6.0\SARITASA.Repository.AssemblyInfo.cs
+D:\Saritasa_NET\SARITASA.API\SARITASA.Repository\obj\Debug\net6.0\SARITASA.Repository.csproj.CoreCompileInputs.cache
+D:\Saritasa_NET\SARITASA.API\SARITASA.Repository\obj\Debug\net6.0\SARITASA.Repository.dll
+D:\Saritasa_NET\SARITASA.API\SARITASA.Repository\obj\Debug\net6.0\refint\SARITASA.Repository.dll
+D:\Saritasa_NET\SARITASA.API\SARITASA.Repository\obj\Debug\net6.0\SARITASA.Repository.pdb
+D:\Saritasa_NET\SARITASA.API\SARITASA.Repository\obj\Debug\net6.0\ref\SARITASA.Repository.dll
+D:\Saritasa_NET\SARITASA.API\SARITASA.Repository\bin\Debug\net6.0\SARITASA.Entity.dll
+D:\Saritasa_NET\SARITASA.API\SARITASA.Repository\bin\Debug\net6.0\SARITASA.Entity.pdb
+D:\Saritasa_NET\SARITASA.API\SARITASA.Repository\obj\Debug\net6.0\SARITASA.Repository.csproj.CopyComplete
+D:\Saritasa_NET\SARITASA.API\SARITASA.Repository\bin\Debug\net6.0\SARITASA.DataAccess.dll
+D:\Saritasa_NET\SARITASA.API\SARITASA.Repository\bin\Debug\net6.0\SARITASA.DataAccess.pdb

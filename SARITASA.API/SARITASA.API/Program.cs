@@ -5,6 +5,8 @@ using SARITASA.Entity;
 using SARITASA.Sevices.Implementations;
 using SARITASA.Sevices;
 using SARITASA.API;
+using SARITASA.Repository;
+using SARITASA.Repository.Implementations;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -35,6 +37,8 @@ builder.Services.AddSwaggerGen();
 
 // Add Services
 builder.Services.AddScoped<IUserServices, UserServices>();
+builder.Services.AddTransient<IFilesRepository, FilesRepository>();
+builder.Services.AddScoped<IFilesServices, FilesServices>();
 builder.Services.ConfigureJwt(builder.Configuration);
 
 var app = builder.Build();

@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using SARITASA.Entity;
+using SARITASA.Entity.Files;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -18,6 +19,7 @@ namespace SARITASA.DataAccess
 
         }
         public virtual DbSet<User> Users { get; set; }
+        public virtual DbSet<Files> Files { get; set; }
         protected override void OnModelCreating(ModelBuilder builder)
         {
             base.OnModelCreating(builder);

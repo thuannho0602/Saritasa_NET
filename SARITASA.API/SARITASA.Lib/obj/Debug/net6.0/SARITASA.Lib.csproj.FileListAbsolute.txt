@@ -1,0 +1,12 @@
+D:\Saritasa_NET\SARITASA.API\SARITASA.Lib\obj\Debug\net6.0\SARITASA.Lib.csproj.AssemblyReference.cache
+D:\Saritasa_NET\SARITASA.API\SARITASA.Lib\obj\Debug\net6.0\SARITASA.Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Saritasa_NET\SARITASA.API\SARITASA.Lib\obj\Debug\net6.0\SARITASA.Lib.AssemblyInfoInputs.cache
+D:\Saritasa_NET\SARITASA.API\SARITASA.Lib\obj\Debug\net6.0\SARITASA.Lib.AssemblyInfo.cs
+D:\Saritasa_NET\SARITASA.API\SARITASA.Lib\obj\Debug\net6.0\SARITASA.Lib.csproj.CoreCompileInputs.cache
+D:\Saritasa_NET\SARITASA.API\SARITASA.Lib\bin\Debug\net6.0\SARITASA.Lib.deps.json
+D:\Saritasa_NET\SARITASA.API\SARITASA.Lib\bin\Debug\net6.0\SARITASA.Lib.dll
+D:\Saritasa_NET\SARITASA.API\SARITASA.Lib\bin\Debug\net6.0\SARITASA.Lib.pdb
+D:\Saritasa_NET\SARITASA.API\SARITASA.Lib\obj\Debug\net6.0\SARITASA.Lib.dll
+D:\Saritasa_NET\SARITASA.API\SARITASA.Lib\obj\Debug\net6.0\refint\SARITASA.Lib.dll
+D:\Saritasa_NET\SARITASA.API\SARITASA.Lib\obj\Debug\net6.0\SARITASA.Lib.pdb
+D:\Saritasa_NET\SARITASA.API\SARITASA.Lib\obj\Debug\net6.0\ref\SARITASA.Lib.dll

@@ -840,11 +840,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Test\\SARITASA.API\\SARITASA.DataAccess\\SARITASA.DataAccess.csproj",
+      "projectUniqueName": "D:\\Saritasa_NET\\SARITASA.API\\SARITASA.DataAccess\\SARITASA.DataAccess.csproj",
       "projectName": "SARITASA.DataAccess",
-      "projectPath": "D:\\Test\\SARITASA.API\\SARITASA.DataAccess\\SARITASA.DataAccess.csproj",
+      "projectPath": "D:\\Saritasa_NET\\SARITASA.API\\SARITASA.DataAccess\\SARITASA.DataAccess.csproj",
       "packagesPath": "C:\\Users\\AD\\.nuget\\packages\\",
-      "outputPath": "D:\\Test\\SARITASA.API\\SARITASA.DataAccess\\obj\\",
+      "outputPath": "D:\\Saritasa_NET\\SARITASA.API\\SARITASA.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -866,8 +866,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Test\\SARITASA.API\\SARITASA.Entity\\SARITASA.Entity.csproj": {
-              "projectPath": "D:\\Test\\SARITASA.API\\SARITASA.Entity\\SARITASA.Entity.csproj"
+            "D:\\Saritasa_NET\\SARITASA.API\\SARITASA.Entity\\SARITASA.Entity.csproj": {
+              "projectPath": "D:\\Saritasa_NET\\SARITASA.API\\SARITASA.Entity\\SARITASA.Entity.csproj"
             }
           }
         }
